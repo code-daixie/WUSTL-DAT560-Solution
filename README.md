@@ -1,2 +1,3 @@
 # WUSTL-DAT560-Solution
-the solution to the exam
+
+## 微信：scs_ryan
